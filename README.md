@@ -1,5 +1,5 @@
 This code is still in `BETA` and **may not work** when used. This is
-just a side project that exists just because I hate `FetchContent` and `ExternalProject`.
+just a side project that exists solely because I hate `FetchContent` and `ExternalProject`.
 
 # CMake GetProject
 
@@ -40,4 +40,4 @@ time**.
 The `URL`, `GIT_REPOSITORY` arguments are **mutually exclusive**.
 
 The `BRANCH` arguments may be used with the `KEEP_UPDATED` option, `VERSION` is
-used when **no branch** is provided. 
+used when **no branch** is provided.
